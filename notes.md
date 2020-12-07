@@ -17,3 +17,4 @@ brew-rosetta -> /usr/local/Hombrew/bin
 # Installed Natively
 
 1. iTerm2 (with cask)
+2. chromium
